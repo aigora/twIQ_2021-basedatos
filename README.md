@@ -4,9 +4,7 @@
 
 ## Integrantes del equipo
 
-[Angel Olmedo @angelolmedo20
-Arturo Bolivar @arturobcas
-Marcos Castro]
+[Angel Olmedo (@angelolmedo20)   Arturo Bolivar (@arturobcas)   Marcos Castro]
 
 ## Objetivos del trabajo
 
